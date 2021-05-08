@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{18AF36B1-0205-484F-B41A-50D61DF5CF3B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Flicker.cs" Line="27" Column="36" />
+      <File FileName="Assets/Bulb.cs" />
+      <File FileName="Assets/Space.cs" />
+      <File FileName="Assets/GameOver.cs" />
+      <File FileName="Assets/PlayerController.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Roll ball" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayerController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f6c20e2e-c720-4884-9444-983fa454d73d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
